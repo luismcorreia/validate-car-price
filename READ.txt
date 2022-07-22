@@ -1,0 +1,6 @@
+READE ME
+1. Install latest version of python.
+2. Open a command prompt or power shell window.
+3. Install selenium by running the command 'pip install selenium'
+4. Install webdriver-manager by running the command 'pip install webdriver-manager'
+5. To run the file simply double click on the python file or open a comand prompt and type 'python ValidateAClassModelPriceTest.py'
